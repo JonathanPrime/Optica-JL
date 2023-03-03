@@ -1,0 +1,14 @@
+/*
+------------------------------------------------------------------
+[Master Stylesheet]
+------------------------------------------------------------------*/
+/*-- plugins --*/
+@import url("../js/owl-crousel/owl.carousel.css");
+@import url("../js/owl-crousel/owl.theme.default.min.css");
+/*-- plugins --*/
+@import url("style.css");
+@import url("bootstrap.min.css");
+@import url("https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css");
+@import url("https://unpkg.com/aos@next/dist/aos.css");
+@import url("https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css");
+
